@@ -2,6 +2,9 @@
 
 This project analyzes customer shopping behavior using Python to understand purchasing patterns, customer segments, and factors influencing buying decisions. The analysis is performed using a real-world dataset, and the results are presented through visualizations, a dashboard, and a project report.
 
+<img width="907" height="494" alt="Screenshot 2026-03-24 124215" src="https://github.com/user-attachments/assets/fa58d0b3-5834-4b7a-bfa7-06d1d90cd09e" />
+
+
 
 🗂️ Project Structure and Flow:
 
